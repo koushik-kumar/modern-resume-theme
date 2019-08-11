@@ -37,7 +37,7 @@ about_content: > # this means to ignore newlines until the next config item.
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# educaton_title: Education #(Use this to override about education section title)
+# educaton_title: Posts #(Use this to override about education section title)
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
